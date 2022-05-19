@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.nav-a ul li a{
+    color: black;
+    font-size: 18px;
+}
+.nav-a ul li{
+    padding-right: 8px;
+}
+.container1{
+position: relative;
+  text-align: center;
+  color: black;
+}
+.image2{
+    background-image: url(second.jpg); 
+    background-size: contain;
+    background-repeat: no-repeat; 
+    height: 520px;
+}
+.first-img1,.first-img2{
+    border-radius: 20px;
+}
+.footer1 ul li a{
+    text-decoration: none;
+}
+.social-media{
+    margin-right: 20px;
+}
